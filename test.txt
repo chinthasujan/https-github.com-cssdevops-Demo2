@@ -1,3 +1,17 @@
-welecome to jenkins
-welcome to jenkins2
-welcome
+
+
+
+
+
+
+
+
+
+
+class web
+{
+public static void main(string args[])
+{
+	system.out.println("this is jenkins project");
+}
+
